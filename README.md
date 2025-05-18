@@ -1,4 +1,4 @@
-# 🧾 Sales & Commissions Management — Legacy Code Reengineering
+# 🧾 Sales & Commissions Management App — Legacy Code Reengineering
 
 This project involved the **reengineering and refactoring** of a legacy Java application code designed to manage sales data and calculate commissions for sales representatives of a clothing company. The goal was to improve the architecture, code quality and maintainability while preserving the original functionality and extending the system with new features.
 
