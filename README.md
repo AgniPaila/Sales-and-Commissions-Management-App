@@ -18,9 +18,9 @@ The original application:
 - Generated reports in **TXT** or **XML** format
 
 ## 🛠️ Refactoring Overview
-- Removed **"lazy"** classes (Coat, Shirt, Skirt, Trouser) and replaced them with a clothingType field, handled through a clothingFactory class using the **Factory Method** design pattern.
+- Removed **"lazy"** classes (Coat, Shirt, Skirt, Trouser) and replaced them with a clothingType field, handled through a `clothingFactory` class using the **Factory Method** design pattern.
 - **Renamed** classes and fields with more meaningful and representative names for clarity and maintainability.
-- Moved ReceiptAppender classes to the output package, reflecting their true responsibility in the application's architecture.
+- Moved `ReceiptAppender` classes to the output package, reflecting their true responsibility in the application's architecture.
 - **Merged primitive fields** into a `Receipt` class to reduce primitive obsession.
 - Extracted common logic shared by similar classes into a **Template Method**, with class-specific variations implemented as concrete steps in subclasses.
 
