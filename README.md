@@ -59,6 +59,6 @@ Build and run the application
 
 
 ## 📘 Course Info
-Course: Ανάπτυξη Λογισμικού II (Software Development II)
+Course: Ανάπτυξη Λογισμικού II (Software Development II - 4th year)
 
 Team: This project was developed in collaboration with two fellow students.
